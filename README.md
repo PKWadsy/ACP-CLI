@@ -1,6 +1,6 @@
 # About
 
-This is a command line application that allows you to download APC example files.
+This is a command line application that allows you to download ACP example files.
 
 # Usage
 ## Using node
