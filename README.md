@@ -2,4 +2,7 @@
 
 This is a command line application that allows you to download APC example files.
 
-It is programmed in typescript and uses node under the hood.
+# Usage
+# Using node
+
+Install npm and then you can simply run ```npx acp-cli``` and follow the instructions
